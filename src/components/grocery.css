@@ -11,6 +11,10 @@
     padding: 2rem;
     border-radius: 8px;
 }
+.container:hover{
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.142);
+    transition: 0.7s ease-in-out;
+}
 .container h1{
     height: 40%;
     margin: 0;
